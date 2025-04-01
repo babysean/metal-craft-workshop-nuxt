@@ -1,75 +1,18 @@
-# Nuxt Minimal Starter
+# Cursor AI를 이용한 금속공예 공방 홈페이지 만들기
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+해당 프로젝트는 Cursor AI를 통해 제작된 프로젝트입니다.
 
-## Setup
-
-Make sure to install dependencies:
-
+## 사전작업
 ```bash
 # npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
+## 서비스 실행하기
+로컬 URL : `http://localhost:3000`
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<img src="public/readme/readme-img-01.png" width="100%"/>
+<img src="public/readme/readme-img-02.png" width="100%"/>
+<img src="public/readme/readme-img-03.png" width="100%"/>

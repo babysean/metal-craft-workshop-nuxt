@@ -5,6 +5,10 @@
       <p class="text-xl text-gray-600">전통과 현대가 조화를 이루는 특별한 금속공예 작품을 만나보세요</p>
     </section>
 
+    <section class="mb-12">
+      <ImageSlider />
+    </section>
+
     <section class="grid grid-cols-1 md:grid-cols-3 gap-6">
       <div v-for="(feature, index) in features" :key="index" class="p-6 bg-white rounded-lg shadow-md">
         <h3 class="text-xl font-semibold mb-2">{{ feature.title }}</h3>
